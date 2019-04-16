@@ -3,11 +3,12 @@
 using namespace std;
 
 void printMyName () {
-	//TODO
+	//Функцијата printMyName сп cout пператпрпт гп пешати ващетп име и презиме
+
 }
 
 void printMyIndex () {
-	//TODO
+	//Функцијата printMyIndex сп cout пператпрпт гп пешати брпјпт на ващипт индекс
 }
 
 int main () {
